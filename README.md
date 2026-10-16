@@ -57,7 +57,7 @@ Direct commits to OSP or OOC are detected and opened as PRs back to `Interested-
 |---|---|
 | [@SoulHarsh007](https://github.com/SoulHarsh007) | 16 |
 | [@vnepogodin](https://github.com/vnepogodin) | 8 |
-| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 1 |
+| [@Interested-Deving-1896](https://github.com/Interested-Deving-1896) | 2 |
 <!-- AI:end:contributors -->
 
 ## Origins
